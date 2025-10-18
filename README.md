@@ -32,7 +32,7 @@ The project focuses on effective feature engineering, model tuning, and evaluati
 | **Cross-Val Score (Full Features)** | **81.31%** |
 
 
-| Metric                           | Score      |
+| Metrics                          | Score      |
 |:-----------------------------    |:----------:|
 | **Cross-Val mean score (final)** | **81.03%** |
 | **Accuracy**                     | **83.24%** |
