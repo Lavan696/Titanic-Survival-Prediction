@@ -87,7 +87,7 @@ While accuracy improved slightly, the overall **F1-score** and **recall** also i
 ---
 
 ##  Dataset Source  
- [Titanic - Machine Learning from Disaster | Kaggle](https://homl.info/titanic.tgz)
+ [Titanic Dataset](https://homl.info/titanic.tgz)
 ---
 
 ##  Author  
