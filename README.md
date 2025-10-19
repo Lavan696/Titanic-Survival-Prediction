@@ -36,7 +36,7 @@ Since the test set provided by Kaggle does not include labels, the original **tr
 
 ---
 
-## ⚙️ Model Performance Comparison  
+## Model Performance Comparison  
 
 | Metric                      | Before Threshold Adjustment | After Threshold (Precision = Recall = 82%) |
 |:----------------------------|:---------------------------:|:------------------------------------------:|
@@ -87,7 +87,7 @@ While accuracy improved slightly, the overall **F1-score** and **recall** also i
 ---
 
 ##  Dataset Source  
- [Titanic - Machine Learning from Disaster | Kaggle](https://www.kaggle.com/c/titanic)
+ [Titanic - Machine Learning from Disaster | Kaggle](https://homl.info/titanic.tgz)
 ---
 
 ##  Author  
