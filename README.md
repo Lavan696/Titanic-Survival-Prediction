@@ -96,4 +96,3 @@ While accuracy improved slightly, the overall **F1-score** and **recall** also i
 -  Student at NIT Andhra Pradesh  
 -  Passionate about Data Science, Machine Learning, and AI  
 - 🔗 [LinkedIn](www.linkedin.com/in/lavan-kumar-konda)
-
