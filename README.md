@@ -83,7 +83,7 @@ While accuracy improved slightly, the overall **F1-score** and **recall** also i
 ---
 ##  Model Saving
 
-The final trained model was saved using **Joblib** for efficient loading and deployment.  
+The final trained model was saved as 'titanic_survival_prediction_model.pkl' using **Joblib** for efficient loading and deployment.  
 This allows reusing the trained model without retraining every time:
 
 ---
