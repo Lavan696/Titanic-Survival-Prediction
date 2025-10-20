@@ -81,7 +81,12 @@ While accuracy improved slightly, the overall **F1-score** and **recall** also i
 - **OOB Score Plot** – Out-of-Bag score of the Random Forest model
    
 ---
+##  Model Saving
 
+The final trained model was saved using **Joblib** for efficient loading and deployment.  
+This allows reusing the trained model without retraining every time:
+
+---
 ##  Future Improvements  
 - Experiment with other ensemble methods like **XGBoost** or **Gradient Boosting** 
 ---
