@@ -100,4 +100,4 @@ This allows reusing the trained model without retraining every time:
 **Lavan kumar Konda**  
 -  Student at NIT Andhra Pradesh  
 -  Passionate about Data Science, Machine Learning, and AI  
-- 🔗 [LinkedIn](www.linkedin.com/in/lavan-kumar-konda)
+-  [LinkedIn](www.linkedin.com/in/lavan-kumar-konda)
